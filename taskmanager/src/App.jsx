@@ -2,6 +2,7 @@ import { BrowserRouter, Routes, Route, NavLink } from "react-router-dom";
 import TaskList from "./pages/TaskList";
 import AddTask from "./pages/AddTask";
 import { GlobalProvider } from "./context/GlobalContext";
+import "./App.css";
 
 
 
