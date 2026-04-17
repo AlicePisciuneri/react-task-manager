@@ -22,10 +22,13 @@ Questo progetto nasce per mettere in pratica una logica molto concreta, creare s
 - CSS
 - REST API
 - JSON
-
-## 🚀 Come avviarlo
+🚀 Come avviarlo
 
 1. Clona il repository  
 2. Installa le dipendenze  
-   ```bash
-   npm install
+
+   npm install  
+
+3. Avvia il progetto  
+
+   npm run dev  
